@@ -3,6 +3,12 @@
 List of libre typeface foundries and typeface lists.  
 If your project is not it the list, I’ll be happy to accept your pull request.
 
+## [Love Letters](http://www.love-letters.be/)
+
+Description: Git repository of free fonts designed by Sebastien Sanfilippo   
+Admin: @sebsan  
+Based on: git
+
 ## [Interstice Typothèque](http://typotheque.interstices.io/)
 
 Description: List of the font created and used by the collective interstices.io   
@@ -23,7 +29,7 @@ Based on: [ofont](https://github.com/raphaelbastide/ofont)
 
 ## [Use & Modify](http://usemodify.com/)
 
-Description: Font list curated by a type lover
+Description: Font list curated by a type lover  
 Admin: @raphaelbastide  
 Based on: [ofont](https://github.com/raphaelbastide/ofont)
 
@@ -35,7 +41,7 @@ Based on: [ofont](https://github.com/raphaelbastide/ofont)
 
 ## [OSP foundry](http://ospublish.constantvzw.org/foundry/)
 
-Description: The foundry of the collective Open Source Publishing
+Description: The foundry of the collective Open Source Publishing  
 Admin: @osp
 
 ## [Codeface](https://github.com/chrissimpkins/codeface)
