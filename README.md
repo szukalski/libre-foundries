@@ -55,9 +55,9 @@ Based on: GitHub
 Description: “The League has given only the most well-made, free & open-source, @font-face ready fonts”  
 Admin: [@theleagueof](https://github.com/theleagueof)  
 
-## [Font Squirrel](http://fontsquirrel.com/)
+## [Font Squirrel](http://www.fontsquirrel.com/fonts/list/find_fonts?filter[license][0]=open)
 
-Description: Large libre font list  
+Description: List of freeware, low-cost and open fonts
 
 ## [Google Fonts](https://www.google.com/fonts)
 
