@@ -50,7 +50,7 @@ Description: List of monospace fonts. Some of it are freeware
 Admin: [@chrissimpkins](https://github.com/chrissimpkins)  
 Based on: GitHub
 
-## [The Leagueof Moveable Type](https://www.theleagueofmoveabletype.com/)
+## [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
 Description: “The League has given only the most well-made, free & open-source, @font-face ready fonts”  
 Admin: [@theleagueof](https://github.com/theleagueof)  
