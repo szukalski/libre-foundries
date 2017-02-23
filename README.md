@@ -3,6 +3,11 @@
 List of libre typeface foundries, and libre typeface lists.  
 If your project is not it this list, I’ll be happy to merge your pull request.
 
+## [Open Foundry](http://open-foundry.com)
+
+Description: Selection of libre / open source fonts, shown on a nicely made website  
+Admin: Stefan Endress and Alastair O’Shea
+
 ## [Love Letters](http://www.love-letters.be/)
 
 Description: Git repository of free fonts designed by Sebastien Sanfilippo   
@@ -33,12 +38,6 @@ Description: Font list curated by a type lover
 Admin: [@raphaelbastide](https://github.com/raphaelbastide)  
 Based on: [ofont](https://github.com/raphaelbastide/ofont)
 
-## [Supertypo](http://supertypo.anka.io/)
-
-Description: Collection of free fonts  
-Admin: Karol Zaharanski  
-Based on: [ofont](https://github.com/raphaelbastide/ofont)
-
 ## [OSP foundry](http://ospublish.constantvzw.org/foundry/)
 
 Description: The foundry of the collective Open Source Publishing  
@@ -66,3 +65,7 @@ Description: Large libre font list by Google
 ## [Open Font Library](http://openfontlibrary.org/)
 
 Description: One of the first public libre font collection  
+
+## [Impallari Type](http://www.impallari.com)
+
+Description: Pablo Impallari’s foundry, @impallari On Github
