@@ -14,11 +14,16 @@ Description: Git repository of free fonts designed by Sebastien Sanfilippo
 Admin: [@sebsan](https://github.com/sebsan)  
 Based on: git
 
-## [Interstice Typothèque](http://typotheque.interstices.io/)
+## [Luuse Typothèque](http://typotheque.luuse.io/)
 
-Description: List of the font created and used by the collective interstices.io   
-Admin: [@EtienneOz](https://github.com/etienneoz) and Alexandre Liziard  
-Based on: [ofont](https://github.com/raphaelbastide/ofont) 
+Description: List of the font created and used by the collective Luuse   
+Admin: [Luuse](http://www.luuse.io/)  
+Based on: https://gitlab.com/Luuse/Luuse.tools/typotheque
+
+## [Badass Libre Fonts by Womxn](http://design-research.be/by-womxn/)
+
+Description:  This collection aims at giving visibility to libre fonts drawn by womxn designers.  
+Admin: [Loraine Furter](https://lorainefurter.net/)
 
 ## [Fontain](http://www.fontain.org/)
 
