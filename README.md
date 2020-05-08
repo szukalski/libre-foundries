@@ -25,6 +25,11 @@ Based on: https://gitlab.com/Luuse/Luuse.tools/typotheque
 Description: Open source foundry initiated by Ariel Martín Pérez.  
 Admin: [Ariel Martín Pérez](http://arielgraphisme.com/)  
 
+## [Suva Type Foundry](https://www.suvatypefoundry.ee/)
+
+Fonts by the students and faculty of EKA GD in various workshops, classes and projects.   
+Admin: Johanna Ruukholm, Elis Kitt, Laura Merendi, Anselm Oja, Sandra Nuut, Ott Kagovere, Indrek Sirkel  
+
 ## [Badass Libre Fonts by Womxn](http://design-research.be/by-womxn/)
 
 Description:  This collection aims at giving visibility to libre fonts drawn by womxn designers.  
