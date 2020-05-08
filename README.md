@@ -1,6 +1,6 @@
 # Libre Foundries
 
-List of libre typeface foundries, and libre typeface lists.  
+List of libre type foundries, and libre typeface lists.  
 If your project is not it this list, I’ll be happy to merge your pull request.
 
 ## [Open Foundry](http://open-foundry.com)
