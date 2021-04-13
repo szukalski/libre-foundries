@@ -13,7 +13,7 @@ Admin: Stefan Endress and Alastair O’Shea
 
 Description: Selection of libre / open source fonts, submissions allowed.
 
-## [Love Letters](http://www.love-letters.be/)
+## [Love Letters](http://www.love-letters.be/foundry.html)
 
 Description: Git repository of free fonts designed by Sebastien Sanfilippo   
 Admin: [@sebsan](https://github.com/sebsan)  
