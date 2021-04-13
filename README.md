@@ -9,6 +9,10 @@ If your project is not it this list, I’ll be happy to merge your pull request.
 Description: Selection of libre / open source fonts, shown on a nicely made website  
 Admin: Stefan Endress and Alastair O’Shea
 
+## [UNCUT](https://uncut.wtf/)
+
+Description: Selection of libre / open source fonts, submissions allowed.
+
 ## [Love Letters](http://www.love-letters.be/)
 
 Description: Git repository of free fonts designed by Sebastien Sanfilippo   
