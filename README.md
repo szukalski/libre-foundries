@@ -63,6 +63,10 @@ Based on: [ofont](https://github.com/raphaelbastide/ofont)
 Description: The foundry of the collective Open Source Publishing  
 Admin: [@osp](https://github.com/osp)
 
+## [Laïc open fonts](https://laic.pl/free-fonts)
+
+Description: Laïc foundry has an open source font section
+
 
 ## [Republish](https://republi.sh/)
 
