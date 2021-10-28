@@ -4,6 +4,11 @@ List of libre type foundries, and libre typeface lists.
 If your project is not it this list, I’ll be happy to merge your pull request.
 
 
+## [ANRT - Fonts](https://anrt-nancy.fr/fr/fonts/)
+
+Description: Libre font list made in the context of the Atelier National de Recherche Typographique
+Admin: [ANRT](https://anrt-nancy.fr/)
+
 ## [Open Foundry](http://open-foundry.com)
 
 Description: Selection of libre / open source fonts, shown on a nicely made website  
@@ -66,7 +71,6 @@ Admin: [@osp](https://github.com/osp)
 ## [Laïc open fonts](https://laic.pl/free-fonts)
 
 Description: Laïc foundry has an open source font section
-
 
 ## [Republish](https://republi.sh/)
 
