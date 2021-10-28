@@ -6,7 +6,7 @@ If your project is not it this list, I’ll be happy to merge your pull request.
 
 ## [ANRT - Fonts](https://anrt-nancy.fr/fr/fonts/)
 
-Description: Libre font list made in the context of the Atelier National de Recherche Typographique
+Description: Libre font list made in the context of the Atelier National de Recherche Typographique  
 Admin: [ANRT](https://anrt-nancy.fr/)
 
 ## [Open Foundry](http://open-foundry.com)
