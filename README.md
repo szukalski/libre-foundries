@@ -3,6 +3,10 @@
 List of libre type foundries, and libre typeface lists.  
 If your project is not it this list, I’ll be happy to merge your pull request.
 
+## [Berzulis](https://berzulis.com/)
+
+Description: Beržulis is an ongoing experimental type foundry project with a focus on Lithuanian mythology and alphabet.  
+Maintainer: [Studio Cryo](https://www.instagram.com/studiocryo/)
 
 ## [ANRT - Fonts](https://anrt-nancy.fr/fr/fonts/)
 
