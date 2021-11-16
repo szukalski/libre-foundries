@@ -1,7 +1,5 @@
 # Libre Foundries
 
-List of libre type foundries, and libre typeface lists.  
-If your project is not it this list, I’ll be happy to merge your pull request.
 
 ## [Berzulis](https://berzulis.com/)
 
@@ -33,6 +31,11 @@ Based on: git
 Description: List of the font created and used by the collective Luuse   
 Maintainer: [Luuse](http://www.luuse.io/)  
 Based on: https://gitlab.com/Luuse/Luuse.tools/typotheque
+
+## [Typothèque Esa Septantecinq](http://typotheque.le75.be/) 
+
+Description: Library of open source fonts created by the students in graphic design at Le75 school.  
+Maintainer: Design and dev by [Luuse](luuse.io/), maintaned by the students
 
 ## [Tunera](http://www.tunera.xyz/)
 
