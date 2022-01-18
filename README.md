@@ -1,5 +1,10 @@
 # Libre Foundries
 
+## [Fond de riz](http://fonderiz.fr/)
+
+Description: Fond de riz is a project that aim to distribute open source typeface in perpetual evolution.  
+Maintainer: Justine Gagnaire, Marie Deloffre and Cédric Rossignol-Brunet
+
 
 ## [Berzulis](https://berzulis.com/)
 
