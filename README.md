@@ -1,5 +1,10 @@
 # Libre Foundries
 
+## [Cyreal](http://www.cyreal.org/info/)
+
+Description: Cyreal is a Libre/Opensource foundry with expertise in Latin and Cyrillic scripts.  
+Maintainers: [Alexei Vanyashin ](http://www.110design.ru/)
+
 ## [Fond de riz](http://fonderiz.fr/)
 
 Description: Fond de riz is a project that aim to distribute open source typeface in perpetual evolution.  
