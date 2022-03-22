@@ -1,5 +1,10 @@
 # Libre Foundries
 
+## [Death of Typography](https://deathoftypography.com/typefaces/)
+
+Description: A young design collective that practices, researches and explores type through creative inquiry and collaboration.  
+Maintainer: Wee Yen, Sylvia, Qiu Wen
+
 ## [Fond de riz](http://fonderiz.fr/)
 
 Description: Fond de riz is a project that aim to distribute open source typeface in perpetual evolution.  
