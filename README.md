@@ -1,5 +1,10 @@
 # Libre Foundries
 
+## [Typothèque Bye Bye Binary](https://typotheque.genderfluid.space/)
+
+Description: The foundry presents inclusive, non-binary, post-binary fonts under construction.  
+Maintainers: [Bye Bye Binary](http://genderfluid.space/)
+
 ## [Death of Typography](https://deathoftypography.com/typefaces/)
 
 Description: A young design collective that practices, researches and explores type through creative inquiry and collaboration.  
