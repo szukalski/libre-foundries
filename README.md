@@ -1,5 +1,11 @@
 # Libre Foundries
 
+## [Hershey Noailles](http://hershey-noailles.luuse.io/www/)
+
+Description: Another type list by the collective Luuse, creeping somewhere on their server. Apparently used for their collaboration with Villa Noailles with a nice set of Hershey fonts.  
+Maintainer: [Luuse](http://www.luuse.io/)  
+
+
 ## [Typothèque Bye Bye Binary](https://typotheque.genderfluid.space/)
 
 Description: The foundry presents inclusive, non-binary, post-binary fonts under construction.  
